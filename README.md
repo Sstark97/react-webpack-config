@@ -22,6 +22,7 @@ In these repository you can find the following configurations in their respectiv
 - stylus-configuration
 - scss-configuration
 - eslint-prettier-configuration
+- router-configuration
 
 If you want to use more than one configuration you can merge the branches with the configurations you want to use
 
