@@ -14,4 +14,15 @@ Then in your folder use the command
 npm install
 ```
 
+## Configurations
+
+In these repository you can find the following configurations in their respective branches:
+
+- less-configuration
+- stylus-configuration
+- scss-configuration
+- eslint-prettier-configuration
+
+If you want to use more than one configuration you can merge the branches with the configurations you want to use
+
 If this configuration is useful you can leave a star as a thank you ^-^
