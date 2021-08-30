@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.header {
+  display: flex;
+  height: 5%;
+  width: 100%;
+}
+
+.main {
+  display: flex;
+  height: 85%;
+  width: 100%;
+}
+
+.footer {
+  display: flex;
+  height: 10%;
+  width: 100%;
+}
